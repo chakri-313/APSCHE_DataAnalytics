@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<main class="page">
+
+    <p class="eyebrow">TABLEAU ANALYTICS</p>
+
+    <h1>{{ title }}</h1>
+
+    <div class="dashboard-image-container">
+
+        <img
+            src="{{ url_for('static', filename='images/unesco_dashboard.png') }}"
+            alt="UNESCO Global Heritage Dashboard"
+            class="dashboard-image"
+        >
+
+    </div>
+
+</main>
+
+{% endblock %}
