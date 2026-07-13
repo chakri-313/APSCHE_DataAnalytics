@@ -237,10 +237,10 @@ UNESCO_Heritage_Project_Documentation.pdf
 
 # 👨‍💻 Author
 
-**Sai Pavan**
+**Chakri**
 
 Data Analytics Intern
 
 ---
 
-# ⭐ If you found this project useful, consider giving it a Star!
+⭐ If you found this project useful, consider giving it a Star!
